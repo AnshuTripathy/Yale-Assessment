@@ -1,0 +1,37 @@
+classloader in java
+
+What are the classloaders used in JVM
+
+JVM, JDK, JRE
+
+Spring-MVC and it's use for the Front-End.
+
+Generics in Java (Detailed)
+
+String in java, how is data stored in String
+
+Why is String Immutable? Can we make it Mutable?
+
+Don't use Stringbuilder for multi-threaded operations.
+
+StringBuilder vs StringBuffer (Detailed) Which one will you use?
+
+What is toString? What precautions will you take with toString method (Object should not be null)
+
+Design Patterns
+
+What is Synchronization in Java?
+
+can class be synchronized in java?
+
+Annotations in Spring
+
+Have you used SpringBoot?
+
+Annotations in SpringBoot?
+
+Oracle Database
+
+Joins in Oracle
+
+Swagger API
